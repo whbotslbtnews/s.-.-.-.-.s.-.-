@@ -53,7 +53,7 @@ global.botname = "SL.BITTER TRUE NEWS" //ur bot name
 global.packname = "Bot Sticker" // sticker packname
 global.author = "SL.BITTER TRUE NEWS"// sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ 𝄞s.ʟ.ʙ.ᴛ.ɴ.s.ɢ.ʙᴏᴛ]' //
 
 //database
 global.premium = ['+94716660955'] //ur premium numbers
